@@ -15,7 +15,7 @@ h1{
   color: white;
   }
 
-p{
+.toplinks{
   font-size: 18px;
   color: white;
 }
@@ -48,13 +48,15 @@ h4{
 
 .footer{
   background-color: dimgray;
+  text-align: left;
 }
 
-#copyright{
+.copyright{
   font-size: 11px;
-  text-align: left
+  text-align: left;
 }
 
-#links{
+.links{
+  color: white;
   text-align: left;
 }
